@@ -5,6 +5,10 @@ form * {
 }
 
 #checkbox {
-  display:inline;
+  display:inline-block;
+  width: auto;
+}
 
+.checkbox {
+  display: inline-block;
 }
